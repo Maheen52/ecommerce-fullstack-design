@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LUXE — Full-Stack eCommerce Application
 
 A production-grade eCommerce web application built with React, Node.js, Express, and MongoDB.
@@ -189,3 +190,6 @@ git push heroku main
 **Deadline: 5th June, 2026**
 
 Good luck! 🎉
+=======
+# ecommerce-fullstack-design
+>>>>>>> ef2e15aad5bf219c04645f04fedc7dbc6416066f
