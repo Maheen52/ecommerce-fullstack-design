@@ -14,7 +14,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test"
   },
-  "proxy": "http://localhost:5000",
+  "proxy": "https://ecommerce-fullstack-design-production-1c51.up.railway.app",
   "browserslist": {
     "production": [
       ">0.2%",
